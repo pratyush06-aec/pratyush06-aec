@@ -19,6 +19,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
+<a href="https://discord.gg/csqz8EEv" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="50"/>
+</a>
+
 ---
 
 💻 My Tech Experience  
