@@ -3,19 +3,16 @@ Hi 👋, I'm Pratyush Dutta
 ---
 
 🧑‍💻 About Me  
-- 🧑‍🎓 I'm currently studying at **Heritage Institute of Technology**  
-- 🧑‍🤝‍🧑 I'm looking to collaborate on **Web Development Projects**  
-- 🤝 I'm looking for help with **JavaScript & Frontend**  
+- 🧑‍🎓 I'm currently studying at **Asansol Engineering College**    
 - 🌱 I'm currently learning **HTML, CSS & JS**  
-- 💬 Ask me about **C, Python, Web Dev Basics**  
+- 💬 Ask me about **C, Python, Full Stack Basics**  
 
 ---
 
 🌐 My Socials  
 
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
+<a href="#"><img src="https://www.instagram.com/_pratyush.06_/icons?i=instagram" height="50"/></a>
+<a href="#"><img src="https://www.linkedin.com/in/pratyush-dutta-221b94302/icons?i=linkedin" height="50"/></a>
 
 ---
 
