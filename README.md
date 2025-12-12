@@ -11,7 +11,7 @@ Hi 👋, I'm Pratyush Dutta
 
 🌐 My Socials  
 
-<a href="https://www.instagram.com/pratyush.06_/" target="_blank">
+<a href="https://www.instagram.com/_pratyush.06_/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
@@ -24,12 +24,31 @@ Hi 👋, I'm Pratyush Dutta
 💻 My Tech Experience  
 
 <p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" height="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
+</a>
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
   <img src="https://skillicons.dev/icons?i=c" height="45"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
 </p>
 
 ---
