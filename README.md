@@ -11,8 +11,13 @@ Hi 👋, I'm Pratyush Dutta
 
 🌐 My Socials  
 
-<a href="#"><img src="https://www.instagram.com/_pratyush.06_/icons?i=instagram" height="50"/></a>
-<a href="#"><img src="https://www.linkedin.com/in/pratyush-dutta-221b94302/icons?i=linkedin" height="50"/></a>
+<a href="https://www.instagram.com/pratyush.06_/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<a href="https://www.linkedin.com/in/pratyush-dutta-221b94302/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
 
 ---
 
