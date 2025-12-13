@@ -69,10 +69,10 @@ Hi 👋, I'm Pratyush Dutta
 
 ---
 
-🏆 My GitHub Trophies  
+🏆 My GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratyush06-aec&theme=matrix&margin-w=8&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratyush06-aec&theme=matrix&no-frame=true&margin-w=5&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
