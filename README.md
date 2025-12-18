@@ -53,6 +53,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+</a>
+
 </p>
 
 ---
