@@ -81,6 +81,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=cursor" height="50" />
 </a>
 
+<a href="https://aws.amazon.com/bedrock/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" />
+</a>
+
 </p>
 
 ---
