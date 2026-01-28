@@ -31,6 +31,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=whatsapp" height="50" />
 </a>
 
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+</a>
+
 ---
 
 💻 My Tech Experience  
