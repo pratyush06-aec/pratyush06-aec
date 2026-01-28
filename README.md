@@ -77,6 +77,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=js" height="50" />
 </a>
 
+<a href="https://cursor.sh/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cursor" height="50" />
+</a>
+
 </p>
 
 ---
