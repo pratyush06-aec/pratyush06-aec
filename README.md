@@ -73,6 +73,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=git" height="50" />
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="50" />
+</a>
+
 </p>
 
 ---
