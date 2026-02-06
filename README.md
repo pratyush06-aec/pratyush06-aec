@@ -23,12 +23,12 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=discord" height="50"/>
 </a>
 
-<a href="https://x.com/pd_0406official" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-</a>
-
 <a href="https://wa.me/917810983647" target="_blank">
   <img src="https://skillicons.dev/icons?i=whatsapp" height="50" />
+</a>
+
+<a href="https://x.com/pd_0406official" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
 </a>
 
 ---
