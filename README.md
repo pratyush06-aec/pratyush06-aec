@@ -31,6 +31,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=twitter" height="50" />
 </a>
 
+<a href="https://devfolio.co/@Pratyush06" target="_blank">
+  <img src="https://skillicons.dev/icons?i=devfolio" height="50" />
+</a>
+
 ---
 
 💻 My Tech Experience  
@@ -38,35 +42,35 @@ Hi 👋, I'm Pratyush Dutta
 <p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
 </a>
 
 <a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c" height="50"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=django" height="45"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
@@ -79,6 +83,10 @@ Hi 👋, I'm Pratyush Dutta
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://skillicons.dev/icons?i=js" height="50" />
+</a>
+
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" height="50"/>
 </a>
 
 </p>
