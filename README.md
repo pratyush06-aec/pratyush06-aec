@@ -19,6 +19,10 @@ Hi 👋, I'm Pratyush Dutta
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
+<a href="https://devfolio.co/@Pratyush06" target="_blank">
+  <img src="https://skillicons.dev/icons?i=devfolio" height="50" />
+</a>
+
 <a href="https://discord.gg/csqz8EEv" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="50"/>
 </a>
@@ -29,10 +33,6 @@ Hi 👋, I'm Pratyush Dutta
 
 <a href="https://x.com/pd_0406official" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-</a>
-
-<a href="https://devfolio.co/@Pratyush06" target="_blank">
-  <img src="https://skillicons.dev/icons?i=devfolio" height="50" />
 </a>
 
 ---
