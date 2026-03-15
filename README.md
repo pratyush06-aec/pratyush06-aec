@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Pratyush%20Dutta&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Pratyush+Dutta;AI+%7C+Web3+Developer;Building+Cool+Tech+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Pratyush+Dutta;Building+Cool+Tech+Projects;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
