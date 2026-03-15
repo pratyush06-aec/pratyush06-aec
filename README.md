@@ -1,120 +1,131 @@
-Hi 👋, I'm Pratyush Dutta  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Pratyush%20Dutta&fontSize=40&fontColor=ffffff" />
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Pratyush+Dutta;AI+%7C+Web3+Developer;Building+Cool+Tech+Projects;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pratyush06-aec&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-🧑‍💻 About Me  
-- 🧑‍🎓 I'm currently studying at **Asansol Engineering College**    
-- 🌱 I'm currently learning **HTML, CSS & JS**  
-- 💬 Ask me about **C, Python, Full Stack Basics**  
+# 👋 Hi, I'm Pratyush Dutta
+
+🧑‍💻 Passionate about **AI, Web Development & Web3**
 
 ---
 
-🌐 My Socials  
+# 🧑‍💻 About Me
+
+- 🧑‍🎓 Student at **Asansol Engineering College**
+- 🌱 Currently learning **HTML, CSS & JavaScript**
+- 💬 Ask me about **C, Python, and Full Stack Basics**
+- 🚀 Always exploring **AI Developer Tools**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.instagram.com/_pratyush.06_/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pratyush-dutta-221b94302/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://devfolio.co/@Pratyush06" target="_blank">
-  <img src="https://skillicons.dev/icons?i=devfolio" height="50" />
+<img src="https://skillicons.dev/icons?i=devfolio" height="45"/>
 </a>
 
 <a href="https://discord.gg/csqz8EEv" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="50"/>
+<img src="https://skillicons.dev/icons?i=discord" height="45"/>
 </a>
 
 <a href="https://wa.me/917810983647" target="_blank">
-  <img src="https://skillicons.dev/icons?i=whatsapp" height="50" />
+<img src="https://skillicons.dev/icons?i=whatsapp" height="45"/>
 </a>
 
 <a href="https://x.com/pd_0406official" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-</a>
-
----
-
-💻 My Tech Experience  
-
-<p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" height="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" height="50"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-</a>
-
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" height="50"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=django" height="50"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-</a>
-
-<a href="https://cursor.sh/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cursor" height="50" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-</a>
-
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask" height="50"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 
 </p>
 
 ---
 
-📊 My GitHub Stats  
+# 🛠 Tech Stack
 
-<div align="left" style="border: 2px solid #333; border-radius: 12px; padding: 12px; width: fit-content;">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratyush06-aec&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,flask,django,mongodb,git,github,vscode,cursor" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pratyush06-aec&theme=tokyonight" height="160"/>
-
-</div>
-
----
-
-🏆 My GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratyush06-aec&theme=matrix&no-frame=true&margin-w=5&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-🎟 My Holopin  
+# 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://holopin.me/pratyush06-aec" width="600px"/>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratyush06-aec&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush06-aec&theme=tokyonight" height="170"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush06-aec&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush06-aec&theme=tokyo-night" />
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratyush06-aec&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎟 Holopin Badges
+
+<p align="center">
+
+<a href="https://holopin.io/@pratyush06-aec">
+<img src="https://holopin.me/pratyush06-aec" width="700px"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Goals for 2026
+
+- Master **JavaScript & Full Stack Development**
+- Build impactful **AI + Web3 Projects**
+- Contribute to **Open Source**
+- Participate in **Hackathons**
+
+---
+
+⭐ *Thanks for visiting my profile!*
