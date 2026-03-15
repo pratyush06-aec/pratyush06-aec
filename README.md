@@ -119,13 +119,6 @@
 
 ---
 
-# 🚀 Goals for 2026
+*Thanks for visiting my profil!*
 
-- Master **JavaScript & Full Stack Development**
-- Build impactful **AI + Web3 Projects**
-- Contribute to **Open Source**
-- Participate in **Hackathons**
-
----
-
-⭐ *Thanks for visiting my profile!*
+*If you liked it, please give a ⭐!*
