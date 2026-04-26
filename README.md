@@ -61,7 +61,23 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,flask,django,mongodb,git,github,cursor,vscode,docker,netlify,vercel,antigravity" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,flask,django,mongodb,git,github,cursor,vscode,docker,netlify,vercel" />
+<br/><br/>
+
+<!-- Streamlit -->
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="50"/>
+</a>
+
+<!-- Antigravity (fallback as Google/experiment reference) -->
+<a href="https://elgoog.im/gravity/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=google" height="50"/>
+</a>
+
+<!-- Cursor IDE -->
+<a href="https://cursor.sh/" target="_blank">
+  <img src="https://cursor.sh/apple-touch-icon.png" height="50"/>
+</a>
 
 </p>
 
