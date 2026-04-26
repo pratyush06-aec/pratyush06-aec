@@ -66,7 +66,7 @@
 
 <!-- Streamlit -->
 <a href="https://streamlit.io/" target="_blank">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="30"/>
 </a>
 
 <!-- Antigravity (fallback as Google/experiment reference) -->
