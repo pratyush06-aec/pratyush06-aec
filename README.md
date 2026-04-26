@@ -38,9 +38,7 @@
 </a>
 
 <a href="https://devfolio.co/@Pratyush06" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/34358202?s=200&v=4"
-       height="45"
-       style="border-radius: 10px; padding: 5px; background-color: white;" />
+  <img src="https://avatars.githubusercontent.com/u/34358202?s=200&v=4" height="45"/>
 </a>
 
 <a href="https://discord.gg/csqz8EEv" target="_blank">
@@ -71,11 +69,9 @@
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="30"/>
 </a>
 
-<!-- Antigravity (Google) -->
+<!-- Antigravity (fun/experimental) -->
 <a href="https://elgoog.im/gravity/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg"
-       height="45"
-       style="padding: 5px; background-color: white; border-radius: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="50"/>
 </a>
 
 <!-- Cursor IDE -->
