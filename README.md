@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://devfolio.co/@Pratyush06" target="_blank">
-<img src="https://skillicons.dev/icons?i=devfolio" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/34358202?s=200&v=4" height="45"/>
 </a>
 
 <a href="https://discord.gg/csqz8EEv" target="_blank">
@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://wa.me/917810983647" target="_blank">
-<img src="https://skillicons.dev/icons?i=whatsapp" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45"/>
 </a>
 
 <a href="https://x.com/pd_0406official" target="_blank">
