@@ -61,7 +61,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,flask,django,mongodb,git,github,cursor,vscode,docker,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,flask,django,mongodb,git,github,vscode,docker,netlify,vercel" />
 <br/><br/>
 
 <!-- Streamlit -->
@@ -69,9 +69,9 @@
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="30"/>
 </a>
 
-<!-- Antigravity (fallback as Google/experiment reference) -->
+<!-- Antigravity (fun/experimental) -->
 <a href="https://elgoog.im/gravity/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=google" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="50"/>
 </a>
 
 <!-- Cursor IDE -->
