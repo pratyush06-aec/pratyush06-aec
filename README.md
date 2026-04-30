@@ -19,8 +19,7 @@
 # 🧑‍💻 About Me
 
 - 🧑‍🎓 Student at **Asansol Engineering College**
-- 🌱 Currently learning **HTML, CSS & JavaScript**
-- 💬 Ask me about **C, Python, and Full Stack Basics**
+- 🌱 Currently learning **Full Stack**
 - 🚀 Always exploring **AI Developer Tools**
 
 ---
