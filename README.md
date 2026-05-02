@@ -78,6 +78,10 @@
   <img src="https://cursor.sh/apple-touch-icon.png" height="50"/>
 </a>
 
+<a href="https://www.heroku.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/heroku.svg"
+</a>
+
 </p>
 
 ---
