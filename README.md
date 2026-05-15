@@ -86,6 +86,10 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
 </a>
 
+<a href="https://n8n.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/n8n" height="50"/>
+</a>
+
 </p>
 
 ---
