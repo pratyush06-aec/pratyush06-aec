@@ -261,31 +261,17 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
 
 ---
 
+
 <h2 align="center">05 // DIGITAL FOOTPRINT</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/pratyush06-aec/pratyush06-aec/output/github-contribution-grid-snake-dark.svg" />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/pratyush06-aec/pratyush06-aec/output/github-contribution-grid-snake.svg" />
-
-    <img
-      src="https://raw.githubusercontent.com/pratyush06-aec/pratyush06-aec/output/github-contribution-grid-snake.svg"
-      alt="BLACKTRACE contribution snake"
-      width="100%" />
-  </picture>
-</p>
-
-<p align="center">
   <img
-    src="./assets/blacktrace-terminal.gif"
-    alt="BLACKTRACE secure terminal"
-    width="100%" />
+    src="https://raw.githubusercontent.com/pratyush06-aec/pratyush06-aec/output/github-contribution-grid-snake.gif"
+    alt="BLACKTRACE animated contribution snake"
+    width="100%"
+  />
 </p>
+
 
 ---
 
