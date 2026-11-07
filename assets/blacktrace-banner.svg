@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="480" viewBox="0 0 1500 480" role="img" aria-labelledby="title desc">
+<title id="title">BLACKTRACE classified developer dossier</title>
+<desc id="desc">A red and black forensic dossier banner for Pratyush Dutta.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#08090d"/><stop offset=".55" stop-color="#16090d"/><stop offset="1" stop-color="#050609"/>
+  </linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8f0718"/><stop offset=".5" stop-color="#ff263d"/><stop offset="1" stop-color="#8f0718"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#7b1824" stroke-opacity=".18" stroke-width="1"/>
+  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1500" height="480" fill="url(#bg)"/>
+<rect width="1500" height="480" fill="url(#grid)"/>
+<path d="M0 18H1500M0 462H1500" stroke="#b51b2d" stroke-width="2" opacity=".75"/>
+<path d="M28 34H1472V446H28Z" fill="none" stroke="#7e1724" stroke-width="2" opacity=".75"/>
+<g fill="#ff3348" font-family="monospace">
+  <text x="58" y="76" font-size="25" letter-spacing="4">CASE FILE : 001</text>
+  <text x="58" y="119" font-size="17" fill="#d5c5c7">SUBJECT : PRATYUSH DUTTA</text>
+  <text x="58" y="151" font-size="17" fill="#d5c5c7">ROLE : SOFTWARE ENGINEER</text>
+  <text x="58" y="183" font-size="17" fill="#d5c5c7">STATUS :</text>
+  <text x="150" y="183" font-size="17" fill="#00ff9c">ACTIVE</text>
+</g>
+<g text-anchor="middle" font-family="monospace">
+  <text x="825" y="78" fill="#e8dfe0" font-size="22" letter-spacing="7">BLACKTRACE // DEV DOSSIER</text>
+  <path d="M460 105H1190" stroke="url(#red)" stroke-width="2"/>
+  <text x="825" y="224" fill="#fff0f1" font-size="72" font-weight="700" letter-spacing="2">PRATYUSH DUTTA</text>
+  <path d="M485 245H1165" stroke="#e51f35" stroke-width="4" filter="url(#glow)"/>
+  <text x="825" y="292" fill="#e5dadd" font-size="22" letter-spacing="5">AI / ML  |  FULL STACK  |  WEB3  |  SYSTEMS</text>
+  <text x="825" y="408" fill="#ff3548" font-size="18" letter-spacing="6">CLASSIFIED • INVESTIGATION ACTIVE</text>
+</g>
+<g fill="none" stroke="#e3263b" stroke-width="3">
+  <path d="M440 145V112H472M1210 145V112H1178M440 250V283H472M1210 250V283H1178"/>
+  <path d="M60 218H380M60 226H320" opacity=".55"/>
+</g>
+<g opacity=".65" fill="none" stroke="#b51b2d">
+  <circle cx="1360" cy="155" r="75" stroke-width="2"/>
+  <circle cx="1360" cy="155" r="58" stroke-width="1"/>
+  <path d="M1310 155c0-28 20-48 50-48s50 20 50 48-20 48-50 48-50-20-50-48z"/>
+  <path d="M1330 155c0-17 13-30 30-30s30 13 30 30-13 30-30 30-30-13-30-30z"/>
+</g>
+<g font-family="monospace" font-size="14" fill="#ff3348">
+  <text x="60" y="390">[ ENCRYPTED PROFILE RECORD ]</text>
+  <text x="60" y="416" fill="#00ff9c">[ SYSTEM ONLINE ]</text>
+</g>
+<rect id="scan" x="0" y="0" width="1500" height="5" fill="#ff263d" opacity=".8" filter="url(#glow)">
+  <animate attributeName="y" values="0;475;0" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".15;.85;.15" dur="4s" repeatCount="indefinite"/>
+</rect>
+<path d="M0 350H1500" stroke="#ff263d" stroke-opacity=".2" stroke-width="1"/>
+</svg>
