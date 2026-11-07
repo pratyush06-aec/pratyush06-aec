@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36">
+<rect width="1200" height="36" fill="#08090d"/>
+<path d="M0 18H1200" stroke="#67131f" stroke-width="2"/>
+<path d="M0 18H180M1020 18H1200" stroke="#f02a40" stroke-width="3"/>
+<path d="M180 18l14-7v14zM1020 18l-14-7v14z" fill="#f02a40"/>
+<text x="600" y="22" text-anchor="middle" fill="#ff5263" font-family="monospace" font-size="12" letter-spacing="4">BLACKTRACE // CLASSIFIED</text>
+</svg>
