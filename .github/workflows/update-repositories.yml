@@ -5,46 +5,54 @@ on:
   workflow_dispatch:
 
   schedule:
+    # Every Monday at 01:17 UTC (06:47 IST)
     - cron: "17 1 * * 1"
 
 permissions:
   contents: write
 
+concurrency:
+  group: blacktrace-repository-intelligence
+  cancel-in-progress: false
+
 jobs:
   generate-repository-intelligence:
     name: Generate Repository Intelligence
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
 
     steps:
-      - name: Generate BLACKTRACE Featured Repositories
-        uses: lowlighter/metrics@latest
-
+      - name: Checkout repository
+        uses: actions/checkout@v6
         with:
-          token: ${{ secrets.PROFILE_METRICS }}
+          persist-credentials: true
 
-          user: pratyush06-aec
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
 
-          filename: blacktrace-repositories.svg
+      - name: Generate repository intelligence SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_repositories.py \
+            --output assets/blacktrace-repositories.svg
 
-          committer_branch: main
+      - name: Validate generated SVG
+        run: |
+          python -c "import xml.etree.ElementTree as ET; ET.parse('assets/blacktrace-repositories.svg'); print('SVG XML validation: PASSED')"
 
-          committer_message: "chore: refresh BLACKTRACE repository intelligence [Skip GitHub Action]"
+      - name: Commit updated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          output_action: commit
+          git add assets/blacktrace-repositories.svg
 
-          config_output: svg
-
-          template: classic
-
-          base: ""
-
-          plugin_repositories: yes
-
-          plugin_repositories_featured: flora_carbon_ai,my-courier,Nobodristhi,AAVYA,callmi
-
-          plugin_repositories_order: featured
-
-          plugin_repositories_forks: no
-
-          plugins_errors_fatal: yes
+          if git diff --cached --quiet; then
+            echo "No repository intelligence changes detected."
+          else
+            git commit -m "chore: refresh BLACKTRACE repository intelligence"
+            git push
+          fi

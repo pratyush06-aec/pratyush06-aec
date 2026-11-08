@@ -1,0 +1,216 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             width="1200"
+             height="700"
+             viewBox="0 0 1200 700"
+             role="img"
+             aria-labelledby="title description">
+
+        <title id="title">
+            BLACKTRACE Repository Intelligence
+        </title>
+
+        <desc id="description">
+            Featured GitHub repositories belonging to
+            pratyush06-aec.
+        </desc>
+
+        <defs>
+            <linearGradient id="background"
+                            x1="0" y1="0"
+                            x2="1" y2="1">
+                <stop offset="0%" stop-color="#080C12"/>
+                <stop offset="100%" stop-color="#111923"/>
+            </linearGradient>
+
+            <pattern id="grid"
+                     width="32" height="32"
+                     patternUnits="userSpaceOnUse">
+                <path d="M 32 0 L 0 0 0 32"
+                      fill="none"
+                      stroke="#26313D"
+                      stroke-width="0.5"
+                      opacity="0.35"/>
+            </pattern>
+        </defs>
+
+        <rect width="100%" height="100%"
+              fill="url(#background)"/>
+
+        <rect width="100%" height="100%"
+              fill="url(#grid)"/>
+
+        
+<text x="60" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#F8FAFC" letter-spacing="3">BLACKTRACE</text>
+<text x="60" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#E63946" letter-spacing="3">INTELLIGENCE DIVISION // 04A</text>
+<text x="60" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#A5AFBB" letter-spacing="1">CLASSIFIED PROJECT REGISTRY // FEATURED INVESTIGATIONS</text>
+
+        <circle cx="1075" cy="60" r="5"
+                fill="#22C55E"/>
+        
+<text x="1090" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#22C55E" >ONLINE</text>
+<text x="1090" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="500" fill="#778391" >05 PROJECTS</text>
+
+        <line x1="60" y1="155"
+              x2="1140" y2="155"
+              stroke="#394451"
+              stroke-width="1"/>
+        
+<a href="https://github.com/pratyush06-aec/flora_carbon_ai" target="_blank">
+
+        <rect x="60" y="185"
+              width="344"
+              height="210"
+              rx="13"
+              fill="#111820"
+              stroke="#343D48"
+              stroke-width="1.2"/>
+        
+
+        <rect x="60" y="185"
+              width="4" height="210"
+              rx="2" fill="#E63946"/>
+        
+<text x="80" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#E63946" letter-spacing="2">PROJECT // 01</text>
+<text x="80" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" >FLORA CARBON AI</text>
+<text x="80" y="280" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >A forest analysis tool that identifies</text>
+<text x="80" y="301" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >individual trees from high-resolution</text>
+
+        <rect x="80" y="317"
+              width="88" height="24"
+              rx="5"
+              fill="#242D38"/>
+        
+<text x="90" y="334" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#E5E7EB" >TypeScript</text>
+<text x="80" y="369" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >STARS  0</text>
+<text x="190" y="369" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >FORKS  0</text>
+<text x="80" y="387" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#778391" >UPDATED  17 Sep 2026</text>
+</a>
+<a href="https://github.com/pratyush06-aec/my-courier" target="_blank">
+
+        <rect x="428" y="185"
+              width="344"
+              height="210"
+              rx="13"
+              fill="#111820"
+              stroke="#343D48"
+              stroke-width="1.2"/>
+        
+
+        <rect x="428" y="185"
+              width="4" height="210"
+              rx="2" fill="#E63946"/>
+        
+<text x="448" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#E63946" letter-spacing="2">PROJECT // 02</text>
+<text x="448" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" >MY COURIER</text>
+<text x="448" y="280" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >An agent which would ping me up on whatsapp</text>
+<text x="448" y="301" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >or slack, for every mail notifications from</text>
+
+        <rect x="448" y="317"
+              width="70" height="24"
+              rx="5"
+              fill="#242D38"/>
+        
+<text x="458" y="334" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#E5E7EB" >Python</text>
+<text x="448" y="369" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >STARS  0</text>
+<text x="558" y="369" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >FORKS  0</text>
+<text x="448" y="387" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#778391" >UPDATED  28 Jul 2026</text>
+</a>
+<a href="https://github.com/pratyush06-aec/Nobodristhi" target="_blank">
+
+        <rect x="796" y="185"
+              width="344"
+              height="210"
+              rx="13"
+              fill="#111820"
+              stroke="#343D48"
+              stroke-width="1.2"/>
+        
+
+        <rect x="796" y="185"
+              width="4" height="210"
+              rx="2" fill="#E63946"/>
+        
+<text x="816" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#E63946" letter-spacing="2">PROJECT // 03</text>
+<text x="816" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" >NOBODRISTHI</text>
+<text x="816" y="280" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >No repository description available.</text>
+
+        <rect x="816" y="317"
+              width="70" height="24"
+              rx="5"
+              fill="#242D38"/>
+        
+<text x="826" y="334" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#E5E7EB" >Python</text>
+<text x="816" y="369" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >STARS  0</text>
+<text x="926" y="369" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >FORKS  0</text>
+<text x="816" y="387" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#778391" >UPDATED  17 Aug 2026</text>
+</a>
+<a href="https://github.com/pratyush06-aec/AAVYA-HeredityAI-for_women_health_risk_prediction" target="_blank">
+
+        <rect x="244" y="415"
+              width="344"
+              height="210"
+              rx="13"
+              fill="#111820"
+              stroke="#343D48"
+              stroke-width="1.2"/>
+        
+
+        <rect x="244" y="415"
+              width="4" height="210"
+              rx="2" fill="#E63946"/>
+        
+<text x="264" y="444" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#E63946" letter-spacing="2">PROJECT // 04</text>
+<text x="264" y="480" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" >AAVYA // HEREDITY AI</text>
+<text x="264" y="510" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >AI-powered PCOS risk stratification for</text>
+<text x="264" y="531" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >Indian women, exploring the incremental</text>
+
+        <rect x="264" y="547"
+              width="74" height="24"
+              rx="5"
+              fill="#242D38"/>
+        
+<text x="274" y="564" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#E5E7EB" >Multiple</text>
+<text x="264" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >STARS  0</text>
+<text x="374" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >FORKS  0</text>
+<text x="264" y="617" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#778391" >UPDATED  08 Nov 2026</text>
+</a>
+<a href="https://github.com/pratyush06-aec/callmi" target="_blank">
+
+        <rect x="612" y="415"
+              width="344"
+              height="210"
+              rx="13"
+              fill="#111820"
+              stroke="#343D48"
+              stroke-width="1.2"/>
+        
+
+        <rect x="612" y="415"
+              width="4" height="210"
+              rx="2" fill="#E63946"/>
+        
+<text x="632" y="444" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#E63946" letter-spacing="2">PROJECT // 05</text>
+<text x="632" y="480" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" >CALLMI</text>
+<text x="632" y="510" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#A5AFBB" >No repository description available.</text>
+
+        <rect x="632" y="547"
+              width="70" height="24"
+              rx="5"
+              fill="#242D38"/>
+        
+<text x="642" y="564" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#E5E7EB" >Python</text>
+<text x="632" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >STARS  0</text>
+<text x="742" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#F8FAFC" >FORKS  0</text>
+<text x="632" y="617" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#778391" >UPDATED  15 Oct 2026</text>
+</a>
+
+        <line x1="60" y1="652"
+              x2="1140" y2="652"
+              stroke="#394451"
+              stroke-width="1"/>
+        
+<text x="60" y="679" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" fill="#778391" letter-spacing="1">BLACKTRACE // REPOSITORY INTELLIGENCE</text>
+<text x="1140" y="679" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#778391" text-anchor="end">08 Nov 2026 // 13:59 UTC</text>
+</svg>
