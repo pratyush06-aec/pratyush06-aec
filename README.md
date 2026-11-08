@@ -244,15 +244,43 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
 ---
 
 
-<h2 align="center">04 // INTELLIGENCE DASHBOARD</h2>
+
+<h3 align="center">04A // REPOSITORY INTELLIGENCE</h3>
+
+<p align="center">
+  <i>CLASSIFIED PROJECT REGISTRY // SELECTED INVESTIGATIONS</i>
+</p>
 
 <p align="center">
   <img
-    src="./blacktrace-intelligence.svg"
-    alt="BLACKTRACE GitHub Intelligence Dashboard"
+    src="./blacktrace-repositories.svg"
+    alt="BLACKTRACE Featured Repository Intelligence"
     width="100%"
   />
 </p>
+
+<p align="center">
+  <a href="https://github.com/pratyush06-aec/flora_carbon_ai">
+    FLORA CARBON AI
+  </a>
+  &nbsp; // &nbsp;
+  <a href="https://github.com/pratyush06-aec/my-courier">
+    MY-COURIER
+  </a>
+  &nbsp; // &nbsp;
+  <a href="https://github.com/pratyush06-aec/Nobodristhi">
+    NOBODRISHTI
+  </a>
+  &nbsp; // &nbsp;
+  <a href="https://github.com/pratyush06-aec/AAVYA-HeredityAI-for_women_health_risk_prediction">
+    AAVYA / PCOS Prediction
+  </a>
+  &nbsp; // &nbsp;
+  <a href="https://github.com/pratyush06-aec/callmi">
+    callmi
+  </a>
+</p>
+
 
 
 ---
