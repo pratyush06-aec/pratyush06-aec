@@ -37,6 +37,14 @@ FEATURED_REPOSITORIES = [
     "callmi",
 ]
 
+DISPLAY_NAMES = {
+    "flora_carbon_ai": "FLORA CARBON AI",
+    "my-courier": "MY COURIER",
+    "Nobodristhi": "NOBODRISTHI",
+    "AAVYA-HeredityAI-for_women_health_risk_prediction": "AAVYA // HEREDITY AI",
+    "callmi": "CALLMI",
+}
+
 CANVAS_WIDTH = 1200
 CANVAS_HEIGHT = 700
 
@@ -281,7 +289,13 @@ def svg_text(x, y, value, size=14, color="#E5E7EB",
 
 def generate_card(repository, x, y, index):
 
-    name = repository["name"].replace("_", " ").upper()
+    repository_name = repository["name"]
+
+    name = DISPLAY_NAMES.get(
+    repository_name,
+    repository_name.replace("_", " ").replace("-", " ").upper()
+)
+
     description = wrap_text(repository["description"])
 
     language = repository["language"]
@@ -330,12 +344,11 @@ def generate_card(repository, x, y, index):
         )
     )
 
-    # Repository name
     elements.append(
         svg_text(
             x + 20, y + 65,
-            name[:30],
-            19, "#F8FAFC", 700
+            name,
+            18, "#F8FAFC", 700
         )
     )
 
