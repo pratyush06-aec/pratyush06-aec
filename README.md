@@ -243,21 +243,17 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
 
 ---
 
+
 <h2 align="center">04 // INTELLIGENCE DASHBOARD</h2>
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=pratyush06-aec&show_icons=true&hide_border=true&bg_color=08090D&title_color=E3263B&icon_color=00FF9C&text_color=F3ECEE" />
+  <img
+    src="./blacktrace-intelligence.svg"
+    alt="BLACKTRACE GitHub Intelligence Dashboard"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush06-aec&layout=compact&hide_border=true&bg_color=08090D&title_color=E3263B&text_color=F3ECEE" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush06-aec&bg_color=08090D&color=F3ECEE&line=E3263B&point=00FF9C&hide_border=true" width="100%" />
-</p>
 
 ---
 
