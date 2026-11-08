@@ -1,0 +1,95 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="150"
+     viewBox="0 0 1200 150">
+
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67131F" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#EF334A"/>
+      <stop offset="80%" stop-color="#EF334A"/>
+      <stop offset="100%" stop-color="#67131F" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30"
+             patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30"
+            fill="none" stroke="#9299A5"
+            stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="150" fill="#08090D"/>
+  <rect width="1200" height="150" fill="url(#grid)"/>
+
+  <!-- Main divider line -->
+  <rect x="35" y="73" width="1130" height="2"
+        fill="url(#line)"/>
+
+  <!-- Left evidence marker -->
+  <path d="M35 60V86H61"
+        fill="none" stroke="#EF334A" stroke-width="3"/>
+
+  <circle cx="78" cy="74" r="5"
+          fill="#EF334A"/>
+
+  <!-- Right evidence marker -->
+  <path d="M1165 60V86H1139"
+        fill="none" stroke="#EF334A" stroke-width="3"/>
+
+  <circle cx="1122" cy="74" r="5"
+          fill="#EF334A"/>
+
+  <!-- Center classification panel -->
+  <rect x="405" y="43" width="390" height="62"
+        rx="3" fill="#11141B"
+        stroke="#67131F" stroke-width="2"/>
+
+  <path d="M405 57V43H425 M775 43H795V57
+           M405 91V105H425 M775 105H795V91"
+        fill="none" stroke="#EF334A" stroke-width="2"/>
+
+  <text x="600" y="68" text-anchor="middle"
+        fill="#EF334A"
+        font-family="Consolas, monospace"
+        font-size="13" letter-spacing="4">
+    CLASSIFIED // SECTION
+  </text>
+
+  <text x="600" y="88" text-anchor="middle"
+        fill="#9299A5"
+        font-family="Consolas, monospace"
+        font-size="9" letter-spacing="2">
+    ACCESS LEVEL // RESTRICTED
+  </text>
+
+  <!-- Metadata -->
+  <text x="35" y="32"
+        fill="#9299A5"
+        font-family="Consolas, monospace"
+        font-size="10" letter-spacing="2">
+    BLACKTRACE // INVESTIGATION DIVISION
+  </text>
+
+  <text x="1165" y="32" text-anchor="end"
+        fill="#9299A5"
+        font-family="Consolas, monospace"
+        font-size="10" letter-spacing="2">
+    FILE TRANSITION // BT-004
+  </text>
+
+  <text x="35" y="127"
+        fill="#67131F"
+        font-family="Consolas, monospace"
+        font-size="10" letter-spacing="2">
+    END OF RECORD
+  </text>
+
+  <text x="1165" y="127" text-anchor="end"
+        fill="#EF334A"
+        font-family="Consolas, monospace"
+        font-size="10" letter-spacing="2">
+    NEXT INVESTIGATION // CONTINUE
+  </text>
+
+</svg>

@@ -150,12 +150,9 @@
 
 <!-- *If you liked it, please give a ⭐!* -->
 
-
 <!-- ------------------------------------------------------------ -->
 <!-- NEW VERSION -->
 <!-- ----------------------------------------------------------- -->
-
-
 
 <!-- ================================================= -->
 <!-- BLACKTRACE // CLASSIFIED DEVELOPER DOSSIER        -->
@@ -178,6 +175,14 @@
 </p>
 
 ---
+
+<p align="center">
+  <img
+    src="./assets/blacktrace/dossiers/case-file-header.svg"
+    alt="BLACKTRACE classified investigator dossier"
+    width="100%"
+  />
+</p>
 
 <h2 align="center">01 // INVESTIGATOR PROFILE</h2>
 
@@ -212,6 +217,14 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
   <i>Every project starts with a problem worth investigating.</i>
 </p>
 
+<p align="center">
+  <img
+    src="./assets/blacktrace/effects/evidence-markers.svg"
+    alt="BLACKTRACE evidence register"
+    width="100%"
+  />
+</p>
+
 | CASE ID | PROJECT | DOMAIN |
 |:---:|---|---|
 | 001 | AAVYA / PCOS Prediction | Healthcare AI |
@@ -241,9 +254,15 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,gcp,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img
+    src="./assets/blacktrace/effects/surveillance-overlay.svg"
+    alt="BLACKTRACE surveillance network interface"
+    width="100%"
+  />
+</p>
+
 ---
-
-
 
 <h2 align="center">
   04A // REPOSITORY INTELLIGENCE
@@ -264,10 +283,7 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
   />
 </p>
 
-
-
 ---
-
 
 <h2 align="center">05 // DIGITAL FOOTPRINT</h2>
 
@@ -278,7 +294,6 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
     width="100%"
   />
 </p>
-
 
 ---
 
@@ -307,7 +322,13 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
 </p>
 
 <p align="center">
-  <img src="./assets/case-divider.svg" width="100%" />
+  <p align="center">
+  <img
+    src="./assets/blacktrace/motion/classified-divider.svg"
+    alt="BLACKTRACE classified section divider"
+    width="100%"
+  />
+</p>
 </p>
 
 <p align="center">
