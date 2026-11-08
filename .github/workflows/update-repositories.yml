@@ -1,0 +1,48 @@
+
+name: BLACKTRACE Repository Intelligence
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 1 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-repository-intelligence:
+    name: Generate Repository Intelligence
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Generate BLACKTRACE Featured Repositories
+        uses: lowlighter/metrics@latest
+
+        with:
+          token: ${{ secrets.PROFILE_METRICS }}
+
+          user: pratyush06-aec
+
+          filename: blacktrace-repositories.svg
+
+          committer_branch: main
+
+          committer_message: "chore: refresh BLACKTRACE repository intelligence [Skip GitHub Action]"
+
+          output_action: commit
+
+          config_output: svg
+
+          template: classic
+
+          base: ""
+
+          plugin_repositories: yes
+
+          plugin_repositories_featured: flora_carbon_ai,my-courier,Nobodristhi,AAVYA / PCOS Prediction,callmi
+
+          plugin_repositories_order: featured
+
+          plugin_repositories_forks: no
