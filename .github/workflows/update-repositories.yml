@@ -14,11 +14,11 @@ jobs:
   generate-repository-intelligence:
     name: Generate Repository Intelligence
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       - name: Generate BLACKTRACE Featured Repositories
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
 
         with:
           token: ${{ secrets.PROFILE_METRICS }}
@@ -26,6 +26,8 @@ jobs:
           user: pratyush06-aec
 
           filename: blacktrace-repositories.svg
+
+          repositories: 25
 
           committer_branch: main
 
@@ -41,10 +43,10 @@ jobs:
 
           plugin_repositories: yes
 
-          plugin_repositories_featured: flora_carbon_ai,my-courier,Nobodristhi,AAVYA,callmi
+          plugin_repositories_featured: flora_carbon_ai,my-courier,nobodrishti,aavya,callmi
 
           plugin_repositories_order: featured
 
           plugin_repositories_forks: no
 
-          plugins_errors_fatal: yes
+          plugins_errors_fatal: no
