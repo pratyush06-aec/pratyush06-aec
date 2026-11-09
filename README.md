@@ -134,7 +134,6 @@
 
 </p> -->
 
---- -->
 
 <!-- # 🐍 Contribution Snake
 
@@ -186,18 +185,14 @@
 
 <h2 align="center">01 // INVESTIGATOR PROFILE</h2>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║             CLASSIFIED SUBJECT RECORD               ║
-╠══════════════════════════════════════════════════════╣
-║ SUBJECT       : PRATYUSH DUTTA                      ║
-║ DESIGNATION   : SOFTWARE ENGINEER IN THE MAKING     ║
-║ SPECIALIZATION: AI / ML / FULL STACK / WEB3         ║
-║ INSTITUTION   : ASANSOL ENGINEERING COLLEGE         ║
-║ LOCATION      : INDIA                               ║
-║ STATUS        : ACTIVELY BUILDING                   ║
-╚══════════════════════════════════════════════════════╝
-```
+| CLASSIFIED SUBJECT RECORD | INVESTIGATOR DETAILS |
+|:---|:---|
+| **SUBJECT** | PRATYUSH DUTTA |
+| **DESIGNATION** | SOFTWARE ENGINEER IN THE MAKING |
+| **SPECIALIZATION** | AI / ML / FULL STACK / WEB3 |
+| **INSTITUTION** | ASANSOL ENGINEERING COLLEGE |
+| **LOCATION** | INDIA |
+| **STATUS** | ACTIVELY BUILDING |
 
 ### Hello, I'm Pratyush Dutta.
 
@@ -322,13 +317,11 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
 </p>
 
 <p align="center">
-  <p align="center">
   <img
     src="./assets/blacktrace/motion/classified-divider.svg"
     alt="BLACKTRACE classified section divider"
     width="100%"
   />
-</p>
 </p>
 
 <p align="center">
