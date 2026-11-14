@@ -192,6 +192,14 @@
 
 <h2 align="center">01 // INVESTIGATOR PROFILE</h2>
 
+<p align="center">
+  <img
+    src="./assets/blacktrace/motion/investigator-profile.gif"
+    alt="BLACKTRACE investigator dossier scanning animation"
+    width="100%"
+  />
+</p>
+
 | CLASSIFIED SUBJECT RECORD | INVESTIGATOR DETAILS |
 |:---|:---|
 | **SUBJECT** | PRATYUSH DUTTA |
@@ -238,6 +246,8 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
 
 <h2 align="center">03 // TECH ARSENAL</h2>
 
+
+
 ### Programming Languages
 
 <p align="center">
@@ -254,6 +264,14 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,gcp,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img
+    src="./assets/blacktrace/motion/tech-arsenal.gif"
+    alt="BLACKTRACE animated technical capability matrix"
+    width="100%"
+  />
 </p>
 
 <p align="center">
@@ -317,6 +335,14 @@ I'm a Computer Science Engineering student specializing in AI & ML, passionate a
   <a href="https://devfolio.co/@Pratyush06">
     Devfolio
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="./assets/blacktrace/motion/secure-communication.gif"
+    alt="BLACKTRACE encrypted communication network"
+    width="100%"
+  />
 </p>
 
 <p align="center">
