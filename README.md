@@ -177,6 +177,13 @@
 
 <p align="center">
   <img
+    src="./assets/blacktrace/motion/blacktrace-investigation.gif"
+    alt="BLACKTRACE animated investigation sequence"
+    width="100%" />
+</p>
+
+<p align="center">
+  <img
     src="./assets/blacktrace/dossiers/case-file-header.svg"
     alt="BLACKTRACE classified investigator dossier"
     width="100%"
